@@ -7,5 +7,5 @@ lml==0.0.9
 openpyxl==3.0.3
 pyxlsb==1.0.6
 requests==2.23.0
-urllib3==1.25.9
+urllib3==1.26.5
 xlrd==1.2.0
